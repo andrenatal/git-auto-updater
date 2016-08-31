@@ -1,6 +1,6 @@
 {
   "name": "git-auto-updater",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Keeps a git repository up-to-date",
   "license": "MPL-2.0",
   "author": {
